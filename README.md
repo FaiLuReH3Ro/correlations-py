@@ -4,14 +4,13 @@
 
 ## Dataset Used
 
-I will use various tables in the database that were created during the [Outliers](https://github.com/FaiLuReH3Ro/Outliers-Py) section.
+I will use various tables in the database (`survey-data.db`) that were created during the [Outliers](https://github.com/FaiLuReH3Ro/Outliers-Py) section.
 
 The tables are derived from `clean_survey_data.csv`.
 
 ## Objectives
 
-* Connect to sqlite3
-* Load the dataset into the database as a table
+* Connect to the database using sqlite3
 * Find some correlations and trends in the data
 * Visualize the correlations and trends
 
