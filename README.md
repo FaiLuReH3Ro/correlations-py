@@ -6,6 +6,12 @@
 
 I will use various tables in the database (`survey-data.db`) that were created during the [Outliers](https://github.com/FaiLuReH3Ro/Outliers-Py) section.
 
+### Tables
+
+* __main__ - Main unedited table
+* __noOutCompT__ - Table with no outliers in `CompTotal` column
+* __noOutCompY__ - Table with no outliers in `ConvertedCompYearly` column
+
 The tables are derived from `clean_survey_data.csv`.
 
 ## Objectives
