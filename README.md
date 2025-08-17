@@ -30,3 +30,9 @@ The tables are derived from `clean_survey_data.csv`.
 * Matplotlib
 * Seaborn
 * Numpy
+
+## Jupyter Notebook
+
+Click on the link below to view or download the notebook.
+
+[Finding Correlations - Python](https://github.com/FaiLuReH3Ro/Correlations-Py/blob/main/Finding_Correlations.ipynb)
