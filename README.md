@@ -1,10 +1,10 @@
 # Finding Correlations - Python
 
-<p>This is part of the <a href = 'https://github.com/FaiLuReH3Ro/IBM-DataAnalyst-Capstone'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/IBM-DA-Capstone-Py?tab=readme-ov-file#exploratory-data'>Exploritory Data Analysis</a> section.</p>
+<p>This is part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py?tab=readme-ov-file#exploratory-data'>Exploritory Data Analysis</a> section.</p>
 
 ## Dataset Used
 
-I will use various tables in the database (`survey-data.db`) that were created during the [Outliers](https://github.com/FaiLuReH3Ro/Outliers-Py) section.
+I will use various tables in the database (`survey-data.db`) that were created during the [Outliers](https://github.com/FaiLuReH3Ro/outliers-py) section.
 
 ### Tables
 
@@ -35,4 +35,4 @@ The tables are derived from `clean_survey_data.csv`.
 
 Click on the link below to view or download the notebook.
 
-[Finding Correlations - Python](https://github.com/FaiLuReH3Ro/Correlations-Py/blob/main/Finding_Correlations.ipynb)
+[Finding Correlations - Python](https://github.com/FaiLuReH3Ro/correlations-py/blob/main/Finding_Correlations.ipynb)
