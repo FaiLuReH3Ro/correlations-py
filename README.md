@@ -36,3 +36,9 @@ The tables are derived from `clean_survey_data.csv`.
 * Matplotlib
 * Seaborn
 * Numpy
+
+## Visualizations Used
+
+* Heat Map
+* Scatter Plot
+* Line Plot
