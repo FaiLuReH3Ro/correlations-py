@@ -31,7 +31,7 @@ The tables are derived from `clean_survey_data.csv`.
 * Jupyter notebook
 * Python
 * SQL
-* SQLite3
+* SQLite
 * Pandas
 * Matplotlib
 * Seaborn
