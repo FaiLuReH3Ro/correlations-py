@@ -1,14 +1,14 @@
-# Finding Correlations - Python
+# Finding Correlations - Python 🔍
 
 <p>This repository is part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py?tab=readme-ov-file#exploratory-data'>Exploritory Data Analysis</a> section.</p>
 
-## Jupyter Notebook
+## 📓 Jupyter Notebook
 
-Click on the link below to view or download the notebook.
+> Click on the link below to view or download the notebook.
 
-[Finding Correlations - Python](https://github.com/FaiLuReH3Ro/correlations-py/blob/main/Finding_Correlations.ipynb)
+👉 [Finding Correlations - Python](https://github.com/FaiLuReH3Ro/correlations-py/blob/main/Finding_Correlations.ipynb)
 
-## Dataset Used
+## 📈 Dataset Used
 
 I will use various tables in the database (`survey-data.db`) that were created during the [Outliers](https://github.com/FaiLuReH3Ro/outliers-py) section.
 
@@ -20,13 +20,13 @@ I will use various tables in the database (`survey-data.db`) that were created d
 
 The tables are derived from `clean_survey_data.csv`.
 
-## Objectives
+## 🚀 Objectives
 
-* Connect to the database using sqlite3
+* Connect to the database using SQLite
 * Find some correlations and trends in the data
 * Visualize the correlations and trends
 
-## Tools Used
+## 🛠️ Tools Used
 
 * Jupyter notebook
 * Python
@@ -37,7 +37,7 @@ The tables are derived from `clean_survey_data.csv`.
 * Seaborn
 * Numpy
 
-## Visualizations Used
+## 📊 Visualizations Used
 
 * Heat Map
 * Scatter Plot
