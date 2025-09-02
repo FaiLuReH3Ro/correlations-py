@@ -1,4 +1,4 @@
-# Finding Correlations - Python 🔍
+# Finding Correlations & Trends - Python 🔍
 
 <p>This repository is part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py?tab=readme-ov-file#exploratory-data'>Exploratory Data Analysis</a> section.</p>
 
